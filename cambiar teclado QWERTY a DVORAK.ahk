@@ -1,6 +1,6 @@
 ; Script de autohotkey para cambiar el teclado de QWERTY a DVORAK
-
-; Para alternar teclado pulsar: LSHIFT + RSHIFT
+; Este escript también intercambia los botones de Bloq Mayús y Escape
+; Para alternar teclado pulsar: LSHIFT + RSHIFT, es decir, los dos shifts del teclado
 
 ;----------- ALTERNAR LA DISTRIBUCIÓN DE TECLADO
 
